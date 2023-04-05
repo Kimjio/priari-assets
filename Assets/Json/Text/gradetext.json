@@ -1,0 +1,94 @@
+{
+    "gradetext": {
+        "Jpn": {
+            "GradeName_1": "NORMAL",
+            "GradeName_2": "BRONZE",
+            "GradeName_3": "SILVER",
+            "GradeName_4": "GOLD",
+            "GradeName_5": "PLATINUM",
+            "GradeName_6": "DIAMOND",
+            "GradeName_7": "MASTER",
+            "GradeName_8": "LEGENDARY"
+        },
+        "Eng": {
+            "GradeName_1": "",
+            "GradeName_2": "",
+            "GradeName_3": "",
+            "GradeName_4": "",
+            "GradeName_5": "",
+            "GradeName_6": "",
+            "GradeName_7": "",
+            "GradeName_8": ""
+        },
+        "Chs": {
+            "GradeName_1": "",
+            "GradeName_2": "",
+            "GradeName_3": "",
+            "GradeName_4": "",
+            "GradeName_5": "",
+            "GradeName_6": "",
+            "GradeName_7": "",
+            "GradeName_8": ""
+        },
+        "Kor": {
+            "GradeName_1": "",
+            "GradeName_2": "",
+            "GradeName_3": "",
+            "GradeName_4": "",
+            "GradeName_5": "",
+            "GradeName_6": "",
+            "GradeName_7": "",
+            "GradeName_8": ""
+        },
+        "Cht": {
+            "GradeName_1": "",
+            "GradeName_2": "",
+            "GradeName_3": "",
+            "GradeName_4": "",
+            "GradeName_5": "",
+            "GradeName_6": "",
+            "GradeName_7": "",
+            "GradeName_8": ""
+        },
+        "Fre": {
+            "GradeName_1": "",
+            "GradeName_2": "",
+            "GradeName_3": "",
+            "GradeName_4": "",
+            "GradeName_5": "",
+            "GradeName_6": "",
+            "GradeName_7": "",
+            "GradeName_8": ""
+        },
+        "Ita": {
+            "GradeName_1": "",
+            "GradeName_2": "",
+            "GradeName_3": "",
+            "GradeName_4": "",
+            "GradeName_5": "",
+            "GradeName_6": "",
+            "GradeName_7": "",
+            "GradeName_8": ""
+        },
+        "Ger": {
+            "GradeName_1": "",
+            "GradeName_2": "",
+            "GradeName_3": "",
+            "GradeName_4": "",
+            "GradeName_5": "",
+            "GradeName_6": "",
+            "GradeName_7": "",
+            "GradeName_8": ""
+        },
+        "Spa": {
+            "GradeName_1": "",
+            "GradeName_2": "",
+            "GradeName_3": "",
+            "GradeName_4": "",
+            "GradeName_5": "",
+            "GradeName_6": "",
+            "GradeName_7": "",
+            "GradeName_8": ""
+        }
+    }
+}
